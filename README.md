@@ -27,10 +27,6 @@ I have extensive experience in crafting custom e-commerce solutions, dynamic mob
 - **Serverless architecture** on AWS
 - **Progressive Web Apps (PWA)**
 
-## 📈 GitHub Stats
-
-![Fabrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Fabrice&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
 - **Email:** [bizimanafabrice707@gmail.com](mailto:bizimanafabrice707@gmail.com)
